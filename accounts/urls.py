@@ -2,7 +2,7 @@
 
 
 from django.urls import path
-# Se importa la vista SignUpView
+# Se importa  la vista SignUpView
 from .views import SignUpView
 
 
